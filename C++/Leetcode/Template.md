@@ -1,5 +1,3 @@
-# Chinese name -- English name
-
 ## 题目
 
 ## 我的答案

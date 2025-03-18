@@ -92,3 +92,11 @@ public:
 
 ### Leetcode 168 && 171
 对于字符串和整数之间的处理，可以更多的考虑它的ASCII码，而不是创建一个unordered_map
+
+### Leetcode
+空链表！！！
+链表要正确的连接起来
+
+### Leetcode 26
+空指针！！！
+尤其是双指针的时候

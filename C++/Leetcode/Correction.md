@@ -100,3 +100,6 @@ public:
 ### Leetcode 26
 空指针！！！
 尤其是双指针的时候
+
+### Leetcode 69
+mid = left + (right - left) / 2;
